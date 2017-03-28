@@ -1,0 +1,181 @@
+.card {
+    border: 0;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+    width: 45%;
+    margin-left: 0px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    border-radius: 0px;
+}
+
+.card-small {
+    border: 0;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+    width: 40%;
+    margin-left: 0px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    border-radius: 0px;
+}
+
+.card-block {
+    flex: 1 1 auto;
+    padding: 5px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.card-block-small {
+    flex: 1 1 auto;
+    padding: 5px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.card-cascade {
+    display: inline-block;
+}
+
+.card-cascade-small {
+    display: inline-block;
+}
+
+.card-cascade.narrower {
+    margin-top: 10px;
+}
+
+.card img {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    max-width: 100%;
+    border-radius: 0px;
+    height: auto;
+}
+
+.card-small img {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    max-width: 100%;
+    border-radius: 0px;
+    height: auto;
+}
+
+.card-text {
+    text-align: center;
+    color: black;
+    font-size: 16px;
+    padding-top: 5px;
+}
+
+.card-text-small {
+    text-align: center;
+    color: black;
+    font-size: 16px;
+    padding-top: 5px;
+}
+
+img {
+    vertical-align: middle;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+}
+
+.img-fluid { 
+    width: 100%;
+    height: auto;
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+}
+
+#page {
+    margin-top: 70px;
+}
+
+.navbar-fixed-top .navbar-collapse {
+    padding-right: 20px;
+}
+
+#MainImage {
+    background: url(https://github.com/starkc1/FaithUCC/blob/master/images/MainImage.png?raw=true) 50% fixed;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px;
+}
+
+.WelcomeTag {
+  height: 50px;
+  margin-top: 0px;
+  background-color: #25a0da;
+  color: white;
+  text-align: center;
+  font-size: 35px;
+  box-shadow: 0 4px 5px 0 rgba(0,0,0,.16), 0 11px 15px 0 rgba(0,0,0,.12);
+  font-family: Bellota;
+}
+.navbar-default {
+    background-color: #25a0da;
+    border-color: #25a0da;
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,.16), 0 11px 15px 0 rgba(0,0,0,.12);
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+    cursor: pointer;
+    font-family: Bellota;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: purple;
+}
+
+.navbar-default .navbar-nav li>a {
+    color: white;
+    font-family: Bellota;
+}
+
+.navbar-default .navbar-nav li>a:hover {
+    color: purple;
+} 
+
+.navbar-collapse {
+    border-color: #25a0da;
+}
+
+.navbar-default .navbar-collapse {
+    border-color: #25a0da;
+}
+
+.container .jumbotron {
+    border-radius: 0px;
+}
+
+.jumbotron {
+    margin-top: 20px;
+    background-color: #25a0da;
+    padding-top: 4px;
+    padding-bottom: 14px;
+    color: white;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 11px 15px 0 rgba(0,0,0,.12);
+}
+
+h3 {
+    text-align: center;
+    font-family: Bellota;
+}
+
+.jumbotron p {
+    font-size: 15px;
+    padding: 0px;
+    font-family: Bellota;
+}
+
+.navbar-right .dropdown-menu {
+    background-color: #25a0da;
+}
+
+.navbar-right .dropdown-menu li>a:hover {
+    background-color: transparent;
+}
